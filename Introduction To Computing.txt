@@ -1,0 +1,99 @@
+a5380ee
+Computing
+
+2efcde9
+What is a computer?
+option: A device that performs calculations and logical operations using programming
+option: A device that performs logical operations only
+option: A device that performs calculations only
+option dabfac4: A device that performs calculations and logical operations
+
+b94d27b
+What is software?
+option: Physical components of a computer
+option: Instructions that tell the computer what to do
+option: Programs that the computer runs
+option dabfac4: None of the above
+
+2efcde9
+What is hardware?
+option: Physical components of a computer
+option: Programs that the computer runs
+option: Instructions that tell the computer what to do
+option dabfac4: None of the above
+
+b94d27b
+What is a file?
+option: A type of hardware
+option: A type of software
+option: A collection of related information
+option dabfac4: None of the above
+
+2efcde9
+What is an operating system?
+option: A collection of programs that manages and coordinates the activities of the computer
+option: A program that allows you to browse the internet
+option: A program that allows you to create documents
+option dabfac4: None of the above
+
+a5380ee
+Programming concepts
+
+2efcde9
+What is a programming language?
+option: A set of instructions that tells the computer what to do
+option: A type of hardware
+option: A collection of related information
+option dabfac4: A formal language designed to express computations
+
+b94d27b
+What is a variable in programming?
+option: A fixed value
+option: A container that holds a value
+option: A function that returns a value
+option dabfac4: None of the above
+
+2efcde9
+What is a function in programming?
+option: A container that holds a value
+option: A fixed value
+option: A set of instructions that performs a specific task
+option dabfac4: None of the above
+
+b94d27b
+What is a loop in programming?
+option: A container that holds a value
+option: A set of instructions that performs a specific task
+option: A structure that repeats a set of instructions until a specific condition is met
+option dabfac4: None of the above
+
+2efcde9
+What is debugging in programming?
+option: The process of removing bugs from a program
+option: The process of writing a program
+option: The process of testing a program
+option dabfac4: None of the above
+
+a5380ee
+Algorithms and Data Structures
+
+2efcde9
+What is an algorithm?
+option: A programming language
+option: A set of instructions for solving a problem or completing a task
+option: A container that holds a value
+option dabfac4: None of the above
+
+b94d27b
+What is a data structure?
+option: A programming language
+option: A way of organizing and storing data in a computer so that it can be accessed and used efficiently
+option: A container that holds a value
+option dabfac4: None of the above
+
+2efcde9
+What is a stack in data structures?
+option: A data structure that uses a last-in, first-out (LIFO) approach
+option: A data structure that uses a first-in, first-out (FIFO) approach
+option: A data structure that stores data in a hierarchical structure
+option dabfac4: None of the above

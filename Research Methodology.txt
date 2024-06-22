@@ -1,0 +1,22 @@
+a5380ee
+Research
+
+2efcde9
+What is the difference between qualitative and quantitative research?
+option dabfac4: Qualitative research focuses on subjective data and deals with meanings and interpretations, while quantitative research deals with objective data and uses numerical measurements and statistical analysis.
+option: Qualitative research is more reliable than quantitative research.
+option: Quantitative research is more appropriate for studying human behavior than qualitative research.
+option: None of the above.
+
+b94d27b
+What is the purpose of a research proposal?
+option: To present the findings of a research study.
+option dabfac4: To outline the objectives, methodology, and potential outcomes of a research study and seek approval and funding for the study.
+option: To provide a summary of existing literature on a research topic.
+option: To analyze data collected during a research study.
+
+a5380ee
+Methodology
+
+88f7ace
+Explain the use of mixed methods research in social sciences.

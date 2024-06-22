@@ -1,0 +1,11 @@
+Programming Fundamentals,CS 101,10,50,teacher
+Object Oriented Programming,CS 201,10,50,teacher
+Introduction To Computing,CS 102,10,50,
+Data Structures,CS 301,10,50,
+Analysis of Algorithms,CS 302,10,50,
+Software Requirements Engineering,SE 301,10,50,
+Research Methodology,CS 501,10,50,
+Big Data Analytics,CS 407,10,50,
+Artificial Intelligence,CS 307,10,50,
+Deep Learning,CS 601,10,50,
+Digital Image Processing,CS 409,10,50,

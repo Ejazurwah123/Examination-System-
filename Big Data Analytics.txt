@@ -1,0 +1,43 @@
+a5380ee
+Big Data
+
+2efcde9
+What is big data?
+option dabfac4: Extremely large data sets that require advanced processing technologies to make sense of the information they contain.
+option: Large data sets that can be easily processed by traditional technologies.
+option: Data sets that are too small to be considered big data.
+option: None of the above.
+
+b94d27b
+What is Hadoop?
+option dabfac4: An open-source framework for distributed storage and processing of big data.
+option: A proprietary software suite for analyzing big data.
+option: A type of database management system for small data sets.
+option: None of the above.
+
+2efcde9
+What is MapReduce?
+option: A type of data visualization software.
+option: A distributed database management system.
+option dabfac4: A programming model for processing large data sets with parallel, distributed algorithms.
+option: None of the above.
+
+a5380ee
+Data Analysis
+
+b94d27b
+What is Apache Spark?
+option dabfac4: An open-source distributed computing system used for big data processing and analysis.
+option: A type of data visualization software.
+option: A proprietary software suite for analyzing big data.
+option: None of the above.
+
+2efcde9
+What is the difference between structured and unstructured data?
+option dabfac4: Structured data refers to data that is organized in a specific format, such as a database, while unstructured data refers to data that does not have a specific structure, such as text documents or social media posts.
+option: Structured data refers to data that does not have a specific structure, while unstructured data refers to data that is organized in a specific format, such as a database.
+option: Structured data and unstructured data are the same thing.
+option: None of the above.
+
+88f7ace
+What are some common challenges in big data analysis and how can they be addressed?

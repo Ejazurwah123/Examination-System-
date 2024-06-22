@@ -1,0 +1,46 @@
+a5380ee
+Image
+
+2efcde9
+What is an image in the context of digital image processing?
+option: A graphical representation of data.
+option dabfac4: A two-dimensional array of pixel values that represent the intensity or color of the image.
+option: A physical object that can be captured by a camera.
+option: None of the above.
+
+b94d27b
+What is the difference between grayscale and color images?
+option: Grayscale images have a higher resolution than color images.
+option: Grayscale images are black and white, while color images have multiple colors.
+option dabfac4: Grayscale images only have one channel representing intensity, while color images have multiple channels representing different colors.
+option: None of the above.
+
+2efcde9
+What is image segmentation?
+option: The process of compressing an image.
+option dabfac4: The process of dividing an image into multiple regions or segments based on certain characteristics such as color, texture, or shape.
+option: The process of removing noise from an image.
+option: None of the above.
+
+a5380ee
+Digital Image Processing
+
+b94d27b
+What is image filtering?
+option dabfac4: The process of modifying an image by changing the intensity values of its pixels based on a specific mathematical operation or algorithm.
+option: The process of converting a grayscale image to a color image.
+option: The process of resizing an image.
+option: None of the above.
+
+2efcde9
+What is the difference between image enhancement and image restoration?
+option: Image enhancement is the process of making an image more visually appealing, while image restoration is the process of removing unwanted artifacts from an image.
+option: Image enhancement and image restoration are two different terms for the same process.
+option dabfac4: Image enhancement is the process of improving the visual quality of an image by increasing its contrast, brightness, or sharpness, while image restoration is the process of recovering a degraded or damaged image.
+option: None of the above.
+
+a5380ee
+Image Processing
+
+88f7ace
+Explain the concept of image compression and its applications in digital image processing.

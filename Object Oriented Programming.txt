@@ -1,0 +1,75 @@
+a5380ee
+OOP Basics
+
+2efcde9
+What is Object-Oriented Programming (OOP)?
+option: A programming paradigm that focuses on the use of functions
+option: A programming paradigm that focuses on the use of objects and their interactions
+option: A programming paradigm that focuses on the use of data structures
+option dabfac4: None of the above
+
+b94d27b
+What are the four main pillars of OOP?
+option: Abstraction, encapsulation, inheritance, and polymorphism
+option: Objects, functions, variables, and methods
+option: Inheritance, interfaces, classes, and structs
+option dabfac4: None of the above
+
+2efcde9
+What is inheritance in OOP?
+option: The ability to create new objects from existing objects
+option: The ability to define multiple functions with the same name
+option: The ability to access data members and functions of an object
+option dabfac4: The ability to create new classes from existing classes
+
+b94d27b
+What is encapsulation in OOP?
+option: The ability to hide the implementation details of a class
+option: The ability to create new classes from existing classes
+option: The ability to define multiple functions with the same name
+option dabfac4: The ability to access data members and functions of an object
+
+2efcde9
+What is polymorphism in OOP?
+option: The ability to define multiple functions with the same name but different implementations
+option: The ability to create new objects from existing objects
+option: The ability to access data members and functions of an object
+option dabfac4: The ability to hide the implementation details of a class
+
+a5380ee
+Classes and Objects
+
+2efcde9
+What is a class in OOP?
+option: A collection of objects
+option: A blueprint for creating objects
+option: A set of data structures
+option dabfac4: None of the above
+
+b94d27b
+What is an object in OOP?
+option: A blueprint for creating classes
+option: A collection of data structures
+option: An instance of a class
+option dabfac4: None of the above
+
+2efcde9
+What is the difference between a class and an object in OOP?
+option: A class is a blueprint for creating objects, while an object is an instance of a class
+option: A class and an object are the same thing
+option: An object is a blueprint for creating classes, while a class is an instance of an object
+option dabfac4: None of the above
+
+b94d27b
+What is a constructor in OOP?
+option: A function that is used to destroy objects
+option: A function that is used to allocate memory for objects
+option: A special function that is used to initialize objects
+option dabfac4: None of the above
+
+2efcde9
+What is a destructor in OOP?
+option: A special function that is used to initialize objects
+option: A function that is used to allocate memory for objects
+option: A function that is used to destroy objects
+option dabfac4: None of the above

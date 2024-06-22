@@ -1,0 +1,43 @@
+a5380ee
+AI
+
+2efcde9
+What is Artificial Intelligence (AI)?
+option dabfac4: A branch of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, and decision-making.
+option: A type of software used for automating routine tasks.
+option: A type of hardware used for processing complex data.
+option: None of the above.
+
+b94d27b
+What is Machine Learning?
+option dabfac4: A subset of AI that involves creating algorithms that can learn from and make predictions on data.
+option: A type of software used for automating routine tasks.
+option: A type of hardware used for processing complex data.
+option: None of the above.
+
+2efcde9
+What is Deep Learning?
+option: A type of AI that focuses on creating algorithms for playing games.
+option: A type of machine learning that uses decision trees.
+option dabfac4: A subset of machine learning that involves creating neural networks with many layers to process complex data.
+option: None of the above.
+
+a5380ee
+AI Dimensions
+
+b94d27b
+What is Natural Language Processing (NLP)?
+option dabfac4: A field of AI that focuses on allowing computers to understand, interpret, and generate human language.
+option: A type of machine learning that uses decision trees.
+option: A type of hardware used for processing complex data.
+option: None of the above.
+
+2efcde9
+What is Computer Vision?
+option: A type of AI that focuses on creating algorithms for playing games.
+option dabfac4: A field of AI that focuses on allowing computers to interpret and understand visual data from the world around them.
+option: A type of machine learning that uses decision trees.
+option: None of the above.
+
+88f7ace
+What are some potential ethical considerations when developing and implementing AI technology?

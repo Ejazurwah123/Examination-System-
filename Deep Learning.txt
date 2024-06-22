@@ -1,0 +1,46 @@
+a5380ee
+Deep Learning
+
+2efcde9
+What is the difference between machine learning and deep learning?
+option: Machine learning is a subset of deep learning.
+option dabfac4: Deep learning is a subset of machine learning.
+option: Machine learning uses shallow neural networks, while deep learning uses deep neural networks.
+option: None of the above.
+
+b94d27b
+What is a neural network?
+option dabfac4: A set of algorithms designed to recognize patterns in data by simulating the behavior of the human brain.
+option: A type of machine learning algorithm that uses decision trees to make predictions.
+option: A method of compressing data to reduce its size.
+option: None of the above.
+
+2efcde9
+What is backpropagation?
+option: A method of computing the output of a neural network.
+option dabfac4: A method of training a neural network by adjusting the weights of its connections based on the difference between the predicted and actual outputs.
+option: A method of reducing overfitting in a neural network.
+option: None of the above.
+
+a5380ee
+Networking
+
+b94d27b
+What is a convolutional neural network (CNN)?
+option: A type of neural network used for natural language processing.
+option: A type of neural network used for unsupervised learning.
+option dabfac4: A type of neural network used for image recognition and processing, which involves convolutional layers that learn features from the image.
+option: None of the above.
+
+2efcde9
+What is transfer learning?
+option dabfac4: A technique in which a pre-trained neural network is used as a starting point for a new, related task, allowing for faster and more efficient training.
+option: A method of training a neural network by transferring knowledge from a human expert.
+option: A technique for compressing the size of a neural network.
+option: None of the above.
+
+a5380ee
+Deep Learning Applications
+
+88f7ace
+Explain the concept of generative adversarial networks (GANs) and their applications in deep learning.

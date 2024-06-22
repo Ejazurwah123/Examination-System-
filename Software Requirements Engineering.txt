@@ -1,0 +1,25 @@
+a5380ee
+Software Reliability Engineering
+
+2efcde9
+What is Software Reliability Engineering (SRE)?
+option: A branch of software engineering that focuses on building reliable and fault-tolerant systems
+option: A process of ensuring that software is free from defects
+option: A technique used to optimize the performance of software systems
+option dabfac4: None of the above
+
+b94d27b
+What are the key principles of SRE?
+option: Reactive problem solving, manual processes, and ad hoc procedures
+option: Risk aversion, continuous improvement, and blameless culture
+option: Ad hoc processes, lack of automation, and siloed teams
+option dabfac4: None of the above
+
+2efcde9
+What is the difference between reliability and availability in SRE?
+option: Reliability is the ability of a system to recover from failures, while availability is the ability of a system to function without interruption
+option: Reliability is the ability of a system to function without interruption, while availability is the ability of a system to recover from failures
+option dabfac4: None of the above
+
+88f7ace
+How can SRE principles be applied in software development?

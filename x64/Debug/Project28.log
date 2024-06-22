@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\Visual Studio Projects\Project28\Project28\AssessmentItems.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Visual Studio Projects\Project28\Project28\AssessmentItems.h(168,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Visual Studio Projects\Project28\Project28\Course.h(286,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Visual Studio Projects\Project28\Project28\Users.h(197,13): warning C4101: 'assessment_id': unreferenced local variable
+E:\Visual Studio Projects\Project28\Project28\Users.h(452,8): warning C4101: 'cId': unreferenced local variable
+E:\Visual Studio Projects\Project28\Project28\Users.h(495,8): warning C4101: 'cId': unreferenced local variable
+  Project28.vcxproj -> E:\Visual Studio Projects\Project28\x64\Debug\Project28.exe
